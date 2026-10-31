@@ -1,5 +1,7 @@
 # SGAIMIP Wisata Ondaro
 
+[![OpenRepos](https://img.shields.io/endpoint?url=https://openrepos.org/status/sgaimpwisataondaro.openrepos.org.json&style=flat-square)](https://sgaimpwisataondaro.openrepos.org/)
+
 Website WebGIS SGA IMIP.
 
 ## Website
