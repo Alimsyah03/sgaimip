@@ -1,4 +1,4 @@
-# SGAIMP Wisata Ondaro
+# SGAIMIP Wisata Ondaro
 
 Website WebGIS SGA IMIP.
 
@@ -6,7 +6,7 @@ Website WebGIS SGA IMIP.
 https://sgaimip.netlify.app
 
 ## Custom Domain
-https://sgaimpwisataondaro.openrepos.org
+https://sgaimipwisataondaro.openrepos.org
 
 ## Repository
 https://github.com/Alimsyah03/sgaimip
