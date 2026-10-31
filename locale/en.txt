@@ -1,0 +1,43 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_351F129F_2DD9_28FD_41A1_519EDE18EDE9.text = Wisata Undaro
+
+### Tooltip
+HotspotPanoramaOverlayArea_37FED9E8_2E57_7BC5_41B8_1948186C60C7.toolTip = Dermaga
+HotspotPanoramaOverlayArea_3532CBB1_2E69_7844_41BA_D7C929A8CBFA.toolTip = Dermaga & Pos Registrasi
+HotspotPanoramaOverlayArea_34558EE6_2E6B_39CD_4189_33C50F50EF5E.toolTip = Gazebo
+HotspotPanoramaOverlayArea_37F813E9_2E58_EFC6_41C2_8FC97A01D97F.toolTip = Gazebo
+HotspotPanoramaOverlayArea_3576CEEB_2E69_D9C4_41C5_9D0AF2AB334F.toolTip = Gazebo Khusus IMIP
+HotspotPanoramaOverlayArea_3733F81C_2E59_787E_4187_E12839EB5F13.toolTip = Mushollah
+HotspotPanoramaOverlayArea_347601D1_2E5B_EBC7_41BB_C5E5BBC9DD86.toolTip = WC
+HotspotPanoramaOverlayArea_34CEB015_2E59_284E_41C6_68848BEDBD4A.toolTip = WC & Ruang Ganti
+
+## Media
+
+### Image
+imlevel_355073E4_2DDF_284C_4156_704D5C716CFC.url = media/panorama_21D69831_2DA8_E7C9_41C3_A067DA25FD6E_HS_s6ao6kxg_en.webp
+
+### Title
+panorama_21D69831_2DA8_E7C9_41C3_A067DA25FD6E.label = Panorama Spot 1
+panorama_26A2E4DA_2DAB_287B_4197_96A7235D73BE.label = Panorama Spot 2
+panorama_26AC80E8_2DAB_2847_41B1_724C43ABAD61.label = Panorama Spot 3
+panorama_26AF1CBE_2DAB_583B_41C2_5AE269F1D10A.label = Panorama Spot 4
+panorama_26AED8BA_2DAB_783B_417E_BEDB59E3189B.label = Panorama Spot 5
+
+## Skin
+
+### Image
+Image_8AFC1751_8656_7BB6_41D8_F71037734803.url = skin/Image_8AFC1751_8656_7BB6_41D8_F71037734803_en.png
+
+### Label
+Label_97F7303B_865E_55E9_41AC_5EAE823293A7.text = Secretariat & General Affairs Research & Support
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Undaro Desa Bete-Bete | SGA IMIP
